@@ -1,7 +1,7 @@
 # Accessible Calculus Notes OCR Project
 
 ## Project Overview
-Professors often share handwritten Calculus I notes that screen readers cannot interpret, leaving blind or low-vision students without equitable access. This project delivers an OCR + AI pipeline that converts uploaded PDFs/images of handwritten notes into accessible digital text (MathML/LaTeX) and incrementally approaches ~99% accuracy through guided feedback. The pilot deployment targets Calculus I at Johnson County Community College (JCCC) in Kansas City, MO.
+This project delivers an OCR + AI pipeline that converts uploaded PDFs/images of handwritten notes into accessible digital text (MathML/LaTeX) and incrementally approaches ~99% accuracy through guided feedback. The pilot deployment targets Calculus I at Johnson County Community College (JCCC) in Kansas City, MO.
 
 ## Objectives
 - **Accessible Notes:** Provide screen-reader-friendly calculus notes (text + MathML/LaTeX) instead of inaccessible images.  
